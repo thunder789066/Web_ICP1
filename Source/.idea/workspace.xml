@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d88f441-cd9a-4853-bc7b-3f7a4fe020b4" name="Default Changelist" comment="" />
+    <list default="true" id="3d88f441-cd9a-4853-bc7b-3f7a4fe020b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web_ICP2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,6 +61,8 @@
       <updated>1598459526297</updated>
       <workItem from="1598459527356" duration="5843000" />
       <workItem from="1598477570984" duration="169000" />
+      <workItem from="1599078370265" duration="2161000" />
+      <workItem from="1599100016223" duration="72000" />
     </task>
     <servers />
   </component>
@@ -75,5 +80,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="161" key="FileChooserDialogImpl" timestamp="1599100084777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="697" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599100084777" />
   </component>
 </project>
